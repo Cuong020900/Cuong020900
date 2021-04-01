@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/{{STARS}}-STARS-8cecff?style=for-the-badge">
 	<img src="https://img.shields.io/badge/{{REPOS}}-REPOS-f2e174?style=for-the-badge">
 	<img src="https://img.shields.io/badge/{{FOLLOWERS}}-FOLLOWERS-ff9eb6?style=for-the-badge">
-	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=vietanh0562000&countColor=#ff85c8">
+	<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=vietanh052000&repo=Cuong020900&countColor=#ff85c8">
 </span>
 
 <hr>
@@ -34,5 +34,5 @@
 <span style="clear: both">
 	<span align="left">⏰ <b>UPDATED:</b> {{TIME}}</span>
 	<span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-	<span align="right">⚗ <b>GENERATED:</b>  {{RUNTIME}}s /w <a href="https://github.com/vietanh0562000/vietanh0562000/actions" target="_blank">Github Actions</a></span>
+	<span align="right">⚗ <b>GENERATED:</b>  {{RUNTIME}}s /w <a href="https://github.com/Cuong020900/Cuong020900/actions" target="_blank">Github Actions</a></span>
 </span>
